@@ -1,4 +1,4 @@
-# 🏫 Smart Campus Ordering System – MERN Stack
+#  🏫 Smart Campus Ordering System – MERN Stack
 A pickup-only web app designed for CUET students to view vendor menus, place food orders, and pay online via SSLCommerz. Built using the MERN stack, this project simplifies food ordering within the CUET campus — where major food delivery services aren't available.
 
 🚀 Features
