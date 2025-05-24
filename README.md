@@ -105,3 +105,5 @@ npm install
 
 # Start the React app
 npm start
+#Demographic Drawing
+![Untitled-2025-05-24-1827](https://github.com/user-attachments/assets/f4e6e359-3164-4615-9b14-a877665a0c24)
